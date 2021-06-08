@@ -1,0 +1,4 @@
+pandas
+streamlit==0.60.0
+scikit-learn
+numpy
